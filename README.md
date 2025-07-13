@@ -115,13 +115,6 @@ Want to collaborate?
 
 ---
 
-## 👤 Author
-
-**Gurnoor Kaur**  
-🔗 [GitHub](https://github.com/sk8ergurnoor27)  
-📧 your.email@example.com
-
----
 
 
 
